@@ -1,4 +1,1 @@
-This is file2
-Edited file2
-Edited file2
-Another edit
+Deleted and added content

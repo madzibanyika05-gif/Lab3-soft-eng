@@ -4,3 +4,4 @@ Edited file1
 Edited file1
 Forgot to stage this
 New edit
+New line in file1
